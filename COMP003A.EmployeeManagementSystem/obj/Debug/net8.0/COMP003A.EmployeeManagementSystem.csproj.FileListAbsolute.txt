@@ -1,0 +1,14 @@
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/bin/Debug/net8.0/COMP003A.EmployeeManagementSystem
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/bin/Debug/net8.0/COMP003A.EmployeeManagementSystem.deps.json
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/bin/Debug/net8.0/COMP003A.EmployeeManagementSystem.runtimeconfig.json
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/bin/Debug/net8.0/COMP003A.EmployeeManagementSystem.dll
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/bin/Debug/net8.0/COMP003A.EmployeeManagementSystem.pdb
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/COMP003A.EmployeeManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/COMP003A.EmployeeManagementSystem.AssemblyInfoInputs.cache
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/COMP003A.EmployeeManagementSystem.AssemblyInfo.cs
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/COMP003A.EmployeeManagementSystem.csproj.CoreCompileInputs.cache
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/COMP003A.EmployeeManagementSystem.dll
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/refint/COMP003A.EmployeeManagementSystem.dll
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/COMP003A.EmployeeManagementSystem.pdb
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/COMP003A.EmployeeManagementSystem.genruntimeconfig.cache
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/ref/COMP003A.EmployeeManagementSystem.dll
