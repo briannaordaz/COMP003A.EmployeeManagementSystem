@@ -12,3 +12,4 @@
 /Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/COMP003A.EmployeeManagementSystem.pdb
 /Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/COMP003A.EmployeeManagementSystem.genruntimeconfig.cache
 /Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/ref/COMP003A.EmployeeManagementSystem.dll
+/Users/brianna/RiderProjects/COMP003A.EmployeeManagementSystem/COMP003A.EmployeeManagementSystem/obj/Debug/net8.0/COMP003A.EmployeeManagementSystem.sourcelink.json
